@@ -12,3 +12,4 @@
 /Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/Module1Review.pdb
 /Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/Module1Review.genruntimeconfig.cache
 /Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/ref/Module1Review.dll
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/Module1Review.sourcelink.json
