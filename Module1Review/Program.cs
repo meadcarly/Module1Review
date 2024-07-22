@@ -19,7 +19,12 @@ class Program
         var rectangleArea = length * width;
         return rectangleArea;
     }
-    
+
+    static double areaOfASquare(double side)
+    {
+        var squareArea = side * side;
+        return squareArea;
+    }
     static void Main(string[] args)
     {
         double circle = areaOfACircle(3);
@@ -30,5 +35,8 @@ class Program
 
         double rectangle = areaOfARectangle(4, 5);
         Console.WriteLine($"The area of your rectangle is {rectangle}");
+
+        double square = areaOfASquare(5);
+        Console.WriteLine($"The area of your square is {square}");
     }
 }
