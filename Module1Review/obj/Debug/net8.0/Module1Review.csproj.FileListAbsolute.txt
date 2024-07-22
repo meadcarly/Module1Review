@@ -1,0 +1,14 @@
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/bin/Debug/net8.0/Module1Review
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/bin/Debug/net8.0/Module1Review.deps.json
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/bin/Debug/net8.0/Module1Review.runtimeconfig.json
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/bin/Debug/net8.0/Module1Review.dll
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/bin/Debug/net8.0/Module1Review.pdb
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/Module1Review.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/Module1Review.AssemblyInfoInputs.cache
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/Module1Review.AssemblyInfo.cs
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/Module1Review.csproj.CoreCompileInputs.cache
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/Module1Review.dll
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/refint/Module1Review.dll
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/Module1Review.pdb
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/Module1Review.genruntimeconfig.cache
+/Users/carlymead/Desktop/repos/Module1Review/Module1Review/obj/Debug/net8.0/ref/Module1Review.dll
